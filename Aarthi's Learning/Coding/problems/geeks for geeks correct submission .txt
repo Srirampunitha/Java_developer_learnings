@@ -1,0 +1,12 @@
+geeks for geeks correct submission made wrong
+
+1. Find Index - Finf the first and last index of particular value in an array
+link: https://practice.geeksforgeeks.org/problems/find-index4752/1?page=1&difficulty=School&sortBy=submissions
+
+2. palindromic array
+
+3. Minimize the heights
+link: https://www.geeksforgeeks.org/problems/minimize-the-heights3351/1
+ 
+4. Print the left element
+https://practice.geeksforgeeks.org/problems/print-the-left-element2009/1?page=1&difficulty=School&sortBy=submissions

@@ -1,0 +1,16 @@
+DSA
+
+1.Linera Search
+Article: https://www.geeksforgeeks.org/linear-search/
+
+2.Binary Search
+Article: https://geeksforgeeks.org/binary-search/?ref=lbp
+
+3.Bubble Sort
+Article: https://www.geeksforgeeks.org/bubble-sort/?ref=lbp
+
+4.Selection Sort
+https://www.geeksforgeeks.org/selection-sort/
+
+5.Insertion Sort
+https://www.geeksforgeeks.org/insertion-sort/

@@ -1,0 +1,7 @@
+geeks for geeks problems.
+
+1. add elements in an array
+2. To print elements in an array horizontally
+3.swap two variables
+4.program to find the sum of series
+5.program to return the numbers in an array whose value and index value is same(use 1 based indexing)

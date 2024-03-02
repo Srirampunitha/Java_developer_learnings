@@ -1,0 +1,31 @@
+String methods:
+
+1. charAt() method
+
+2. index of and last index of method
+
+3. slice method and substring
+
+4. split method
+
+5 . includes method
+
+6. starts with and ends with method
+
+7. concat method
+
+8. repeat method
+
+9. trim, trim start and trim end methods
+
+10. pad start and pad end method
+
+11.localecompare method
+
+12. search method
+
+13. match and matchAll method
+
+14. replace and replaceAll methods
+
+15. charCodeAt and charCodePoint

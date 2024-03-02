@@ -1,0 +1,36 @@
+Problems to solve
+
+1. swap two numbers (with and without third variable);
+2.swap two variables using array destructing
+2. find odd or even
+2. print number in a digit individualy
+3. reverse a numbers in a digit;
+4. add numbers in a digit;
+5. find prime number or not
+6.star pattern problems
+7.factorial
+8. fibonacci series
+9.fibonnacci series using array concept
+9.1. fibonocci series using recursion
+10. add two numbers using forEach method, map method, reduce method
+11. Find the array is palindromic or not ====> check for optimal solution
+12. reverse the array with and without using builtin method
+12.1 reverse a string with and without using builtin method
+13. create an array of n numbers using fill method
+13.1 create an array of n numbers without using builtin method
+14. problem to find the all the index of particular value in an array without using builtin method
+15. find the middle element in an array
+16. find the fascinating number
+17. compare two people score using constructor. ex input: a=[1,2,3]; b =[2,1,2]
+18. Display the longest name in an arra19. 
+19.Find GCD of two numbers
+20. happy numbers(succsessive squares of a number will end up returning 1)example of happy numbers is 91
+21. convert the first letter in a string to upper case eg. i love programming // check for the optimal solution
+22. convert a number to binary
+23. find the element which occured for maximum time in an array(check for the solution)
+24. is power of two?
+25. Find the smallest missing number in an array
+26. Find the min and 2nd min value in an array without using sort method
+27. Find the second maximun in an array
+
+0 1 1 2 3 5 8 13

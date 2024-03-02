@@ -1,0 +1,5 @@
+Simple Math technique
+
+1. To convert a number to binary format
+
+2. check the number can be raised to power of 2 eg 4 can be raised as 2^2.

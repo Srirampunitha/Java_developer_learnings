@@ -1,0 +1,95 @@
+brushup the topics:
+
+logical operator
+
+ternary operator
+
+switch case
+
+while loop
+
+for loop
+
+nested for loop
+
+objects
+
+for in loop
+
+functions
+
+arrow function
+
+methods inside object
+
+this keyword
+
+object compares itself(use this)
+
+constructor
+
+array
+
+pushing values in an array (push function too)
+
+pop the element in an array
+
+shift the element in an array
+
+unshift the elemt in an array
+
+splice the array - to delete any element in the array using the index number, add new value to the array using splice method
+
+for of loop and for in loop for array => we can get the indexes of the array elements by using for in loop for arrays
+
+assigning array values to the variables
+
+.split to make variable as an array with strings
+
+three dots, spread operator
+
+for each method
+
+filter method
+
+map method
+
+reduce method
+
+slice method
+
+sort method
+ 
+concat method
+
+fill method
+
+includes method
+
+join method
+
+reverse method
+
+spread operator
+
+indexOf and lastIndexOf methods
+
+every method
+
+some method
+
+find method
+
+findIndex method
+
+from method
+
+isArray method
+
+flat method
+
+sets ==> try for each and has methods in set
+
+Map==> try for each and has methods in Map
+
+recursion

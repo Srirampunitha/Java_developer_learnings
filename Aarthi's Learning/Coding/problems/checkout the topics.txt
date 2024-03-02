@@ -1,0 +1,7 @@
+checkout the topics:
+
+check for forEach, reduce, filter, map methods
+
+check for fibonocci and factorial
+
+

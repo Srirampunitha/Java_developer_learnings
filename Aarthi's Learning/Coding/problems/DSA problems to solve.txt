@@ -1,0 +1,17 @@
+DSA problems to solve
+
+1. Rotate an array by 1;
+
+2. Rotate an array by k numbers both clockwise and anticlockwise
+
+3. Push all the zeros in the array to the end without changing the order of non-zero elements
+
+4. Remove duplicate elements from the sorted array
+
+5. Find the leader in an array
+
+6. Find the majority element that occurs more than n/2 times
+
+7. Find whether the number is power of two or not
+
+8. Find the element that occurs only once whereas other occurs twice

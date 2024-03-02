@@ -1,0 +1,8 @@
+My queries to ask:
+1. spread operator
+2. is there any method to reverse a number?
+3. Is JSON.stringify is only used to convert the objects to strings?
+4. how to return two value at same time
+3. why the key is appendin to a sum instead of getting added in for in loop used for array
+5.  return arr[n-1] = -1 ==> why this is returning the whole array
+6. return parseInt(Math.sqrt(N-1)) -> how this is returning the count of perfect squares less than N. eg: N = 9; ans:2 4,2,-1,3,1

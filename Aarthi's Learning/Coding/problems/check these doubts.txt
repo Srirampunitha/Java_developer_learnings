@@ -1,0 +1,14 @@
+check these doubts
+
+Before moving further, get strong in basic four operations of any data structures
+
+1. How to remove the space inbetweem the strings without using built in methods
+
+2. how to compare two strings,two arrays and two objects in js
+
+3. How to compare the values withn the same object
+
+4. how to rotate array and how to rotate strings
+
+5.Arranging the array
+

@@ -1,0 +1,4 @@
+Try to find solution
+1. Middle of three elements
+
+2. count the occurences of the elements in an array
