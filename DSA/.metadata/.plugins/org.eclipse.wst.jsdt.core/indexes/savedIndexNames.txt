@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+E:\Sriram's Learning\DSA\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3569780595.index
+1983194912.index
+29088849.index
+3689519981.index
+3670476233.index
+2244745679.index
+3442272465.index
