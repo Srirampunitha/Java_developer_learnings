@@ -10,7 +10,7 @@ import com.learning.spring_learning.game.Gamerunner;
 import com.learning.spring_learning.game.Gamingcontrolls;
 
 @Configuration
-@ComponentScan("import com.learning.spring_learning.game")
+@ComponentScan
 public class DependencyInjectionLauncher {   
 	public static void main(String[] args) {
 		

@@ -14,13 +14,13 @@ import com.learning.spring_learning.game.Gamingcontrolls;
 
 @Configuration
 @ComponentScan
-public class BuisnessserviceLauncher { 
+public class DependenyInjectionLauncher { 
 	
 	public static void main(String[] args) {
 		
 try (var context = new
                 AnnotationConfigApplicationContext
-                (BuisnessserviceLauncher.class)) {
+                (DependenyInjectionLauncher.class)) {
 	// Retriveing the beans presented in this Spring context :
 			String[] chunks = context.getBeanDefinitionNames();
 			for(String chunk : chunks) {
