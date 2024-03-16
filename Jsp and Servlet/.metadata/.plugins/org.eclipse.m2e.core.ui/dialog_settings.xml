@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="E:\Sriram&apos;s Learning\Java_Developer_Learning\Jsp and Servlet\DatabaseDemo"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -25,12 +26,20 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.sriram.Hibernate"/>
+			<item value="com.sriram.Database.TestDatabase"/>
+			<item value="com.sriram.DatabaseDemo"/>
 			<item value="com.learning.databaseconnectivity"/>
 		</list>
 		<list key="groupId">
+			<item value="com.sriram"/>
+			<item value="com.sriram.Database"/>
 			<item value="com.learning"/>
 		</list>
 		<list key="artifactId">
+			<item value="Hibernate"/>
+			<item value="TestDatabase"/>
+			<item value="DatabaseDemo"/>
 			<item value="databaseconnectivity"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -67,5 +76,13 @@
 	<section name="org.eclipse.m2e.core.pom.overview">
 	</section>
 	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.dialogs.MavenRepositorySearchDialog">
+		<item key="width" value="480"/>
+		<item key="height" value="549"/>
+		<item key="x" value="400"/>
+		<item key="y" value="0"/>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.wizards.CustomArchetypeDialog">
 	</section>
 </section>

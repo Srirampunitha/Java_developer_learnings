@@ -1,0 +1,4 @@
+select * from course
+insert into course (id,Name,Author) values (1, 'spring' , 'Sriram')
+update course set name = 'azure' where id = 1
+delete from course where Author = 'Sriram'
