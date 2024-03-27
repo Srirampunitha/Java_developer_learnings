@@ -2,14 +2,24 @@ package com.sriram.sb.MyFisrtwebApp.todosApp;
 
 import java.time.LocalDate;
 
+import jakarta.persistence.Column;
+import jakarta.persistence.Entity;
+import jakarta.persistence.Id;
 import jakarta.validation.constraints.Size;
 
+@Entity(name="todo")
 public class TodosEntity {
+	@Id
+	@Column
    private int id ;
+	@Column
    private String username;
+	@Column
    @Size(min=5 , message = "Enter atleast 5 characters")
    private String todos ;
+	@Column(name="targetdate")
    private LocalDate date ;
+	@Column
    private boolean done ;
 public TodosEntity(int id, String username, String todos, LocalDate date, boolean done) {
 	super();
@@ -18,6 +28,10 @@ public TodosEntity(int id, String username, String todos, LocalDate date, boolea
 	this.todos = todos;
 	this.date = date;
 	this.done = done;
+}
+
+public TodosEntity() {
+	
 }
 public int getId() {
 	return id;

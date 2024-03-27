@@ -24,7 +24,9 @@ public class TodosService {
 	}
 
 	public List<TodosEntity> findByUser(String name) {
-		return todos;
+		Predicate<TodosEntity> pedicate = 
+				TodosEntity -> TodosEntity.getUsername().equalsIgnoreCase(name);
+		return todos.stream().filter(pedicate).toList();
 	}
 	public void deleteById(int id) {
 		Predicate<TodosEntity> pedicate = TodosEntity -> TodosEntity.getId() == id ;

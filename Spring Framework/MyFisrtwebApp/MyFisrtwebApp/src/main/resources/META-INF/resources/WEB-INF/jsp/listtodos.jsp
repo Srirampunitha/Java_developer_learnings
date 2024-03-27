@@ -4,7 +4,7 @@
 <div class  ="container">
 <h1>Welcome to the Todos page ${name}</h1>
 <br>
-<table border="1" class = "table" >
+<table border="1" class = "table">
 <thead>
 <tr>
 <th>ID</th>

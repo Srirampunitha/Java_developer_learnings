@@ -16,6 +16,7 @@ public class CricketPlayerContextAppLauncher {
             for(String beans : chunks) {
             	System.out.println(beans);
             }
+           
             
             context.getBean(PlayerRecord.class).palyerdetails();
 	}

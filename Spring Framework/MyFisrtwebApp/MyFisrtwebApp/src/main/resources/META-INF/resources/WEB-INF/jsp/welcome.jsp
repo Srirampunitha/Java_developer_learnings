@@ -2,14 +2,11 @@
 <%@ include file = "common/navigation.jspf" %>
 <body>
 <div class  ="container">
-<h2>Welcome to the Login page </h2>
-<br>
- your name :${name}
- <br> 
- your password : ${password}
+<h2>Welcome  ${name}</h2>
+  
+hey ${name}! Want to manages your todos Click below button ! 
  <br>
- Want to manages your todos Click below button ! 
- <br>
- <a href = "listtodos" class="btn btn-success">Todos</a>
+ <a href = "listtodos" class="btn btn-success">ListTodos</a>
  </div>
+ <br><br>
  <%@ include file = "common/footer.jspf" %>
