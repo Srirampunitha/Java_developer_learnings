@@ -1,0 +1,33 @@
+urls
+
+currencyexchange
+port:8000,8001
+http://localhost:8001/currencyExchange/from/CAD/to/INR
+http://localhost:8000/currencyExchange/from/CAD/to/INR
+
+currencyConversion
+http://localhost:8100/currencyConversion-Feign/from/CAD/to/INR/quantity/10
+http://localhost:8100/currencyConversion/from/CAD/to/INR/quantity/10
+
+naming server
+http://localhost:8761/eureka
+
+apigateway
+http://localhost:8765/currency-conversion-service/currencyConversion-Feign/from/CAD/to/INR/quantity/10
+http://localhost:8765/currency-conversion-service/currencyConversion/from/CAD/to/INR/quantity/10
+http://localhost:8765/currency-exchange-service/currencyExchange/from/CAD/to/INR
+
+apigateway custom routes
+http://localhost:8765/currencyConversion-Feign/from/CAD/to/INR/quantity/10
+http://localhost:8765/currencyConversion/from/CAD/to/INR/quantity/10
+http://localhost:8765/currencyExchange/from/CAD/to/INR
+http://localhost:8765/currencyConversionRate/from/CAD/to/INR/quantity/10
+
+
+
+
+ureka.client.serviceurl.defaultzone=http://localhost:8761/eureka
+server.port=8765
+spring.cloud.gateway.discovery.locator.enabled=true
+spring.cloud.gateway.discovery.locator.lower-case-service-id=true
+eureka.instance.hostname=localhost
