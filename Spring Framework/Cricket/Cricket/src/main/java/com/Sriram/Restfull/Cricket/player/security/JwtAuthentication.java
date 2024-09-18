@@ -69,7 +69,7 @@ public class JwtAuthentication {
 				.roles("USER")
 				.build();
 		
-	var jdbcuserdetailmanager =	new JdbcUserDetailsManager(datasource);
+	JdbcUserDetailsManager  jdbcuserdetailmanager =	new JdbcUserDetailsManager(datasource);
 	jdbcuserdetailmanager.createUser(user2);
 	jdbcuserdetailmanager.createUser(user1);
 		return  jdbcuserdetailmanager;
